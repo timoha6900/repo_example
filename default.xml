@@ -1,5 +1,5 @@
 <manifest>
 	<remote name="repo_example" fetch="https://github.com"/>
-	<default revision="refs/heads?master" remote="repo_example" sync-j="4"/>
+	<default revision="refs/heads/master" remote="repo_example" sync-j="4"/>
 	<project name="Grsmto/simplebar" remote="repo_example" path="simplebar"/>
 </manifest>
