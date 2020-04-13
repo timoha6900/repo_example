@@ -13,7 +13,7 @@
 		<copyfile src="gradle.properties" dest="CustomListView6/gradle_backup/gradle.properties" />
 		<copyfile src="build.gradle" dest="gradle_backup/CustomListView6/build.gradle" />
 		<copyfile src="gradlew" dest="gradle_backup/CustomListView6/gradlew" />
-		<copyfile src="gradle.bat" dest="gradle_backup/CustomListView6/gradlew.bat" />
+		<copyfile src="gradlew.bat" dest="gradle_backup/CustomListView6/gradlew.bat" />
 		<copyfile src="settings.gradle" dest="gradle_backup/CustomListView6/settings.gradle" />
 		<linkfile src="app/src/main/AndroidManifest.xml" dest="CustomListView6/AndroidManifest.xml" />
 	</project>
