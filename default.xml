@@ -10,11 +10,11 @@
 	<project name="NoorMohammedAnik/SqliteToListView" path="SqliteToListView" groups="listview" />
 	<project name="tanvirasifkhan/android-custom-list-view" path="android-custom-list-view" groups="listview" />
 	<project name="NoorMohammedAnik/CustomListView6" path="CustomListView6" groups="listview" >
-		<copyfile src="gradle.properties" dest="gradle_backup/gradle.properties" />
-		<copyfile src="build.gradle" dest="gradle_backup/build.gradle" />
-		<copyfile src="gradlew" dest="gradle_backup/gradlew" />
-		<copyfile src="gradle.bat" dest="gradle_backup/gradle.bat" />
-		<copyfile src="settings.gradle" dest="gradle_backup/settings.gradle" />
-		<linkfile src="app/src/main/AndroidManifest.xml" dest="AndroidManifest.xml" />
+		<copyfile src="gradle.properties" dest="CustomListView6/gradle_backup/gradle.properties" />
+		<copyfile src="build.gradle" dest="gradle_backup/CustomListView6/build.gradle" />
+		<copyfile src="gradlew" dest="gradle_backup/CustomListView6/gradlew" />
+		<copyfile src="gradle.bat" dest="gradle_backup/CustomListView6/gradle.bat" />
+		<copyfile src="settings.gradle" dest="gradle_backup/CustomListView6/settings.gradle" />
+		<linkfile src="app/src/main/AndroidManifest.xml" dest="CustomListView6/AndroidManifest.xml" />
 	</project>
 </manifest>
