@@ -7,4 +7,7 @@
 	<project name="Grsmto/simplebar" path="simplebar"/>
 	<project name="malihu/malihu-custom-scrollbar-plugin" revision="2.x"/>
 	<project name="h_sandeepani/jquery-custom-scrollbar" remote="bitbucket" revision="refs/heads/master" path="custom-scrollbar"/>
+	<project name="NoorMohammedAnik/SqliteToListView" path="SqliteToListView" groups="listview"/>
+	<project name="tanvirasifkhan/android-custom-list-view" path="android-custom-list-view" groups="listview"/>
+	<project name="NoorMohammedAnik/CustomListView6" path="CustomListView6" groups="listview"/>
 </manifest>
