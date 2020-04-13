@@ -8,12 +8,12 @@
 	<project name="malihu/malihu-custom-scrollbar-plugin" revision="2.x" />
 	<project name="h_sandeepani/jquery-custom-scrollbar" remote="bitbucket" revision="refs/heads/master" path="custom-scrollbar" />
 	<project name="NoorMohammedAnik/SqliteToListView" path="SqliteToListView" groups="listview" />
-	<project name="tanvirasifkhan/android-custom-list-view" path="android-custom-list-view" groups="listview" />
+	<project name="tanvirasifkhan/android-custom-list-view" path="android-custom-list-view" revision="c8da3ef93084424db6763e51d27c634cd42bed12" groups="listview" />
 	<project name="NoorMohammedAnik/CustomListView6" path="CustomListView6" groups="listview" >
 		<copyfile src="gradle.properties" dest="CustomListView6/gradle_backup/gradle.properties" />
 		<copyfile src="build.gradle" dest="gradle_backup/CustomListView6/build.gradle" />
 		<copyfile src="gradlew" dest="gradle_backup/CustomListView6/gradlew" />
-		<copyfile src="gradle.bat" dest="gradle_backup/CustomListView6/gradle.bat" />
+		<copyfile src="gradle.bat" dest="gradle_backup/CustomListView6/gradlew.bat" />
 		<copyfile src="settings.gradle" dest="gradle_backup/CustomListView6/settings.gradle" />
 		<linkfile src="app/src/main/AndroidManifest.xml" dest="CustomListView6/AndroidManifest.xml" />
 	</project>
