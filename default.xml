@@ -1,5 +1,9 @@
 <manifest>
-	<remote name="repo_example" fetch="https://github.com"/>
-	<default revision="refs/heads/master" remote="repo_example" sync-j="4"/>
-	<project name="Grsmto/simplebar" remote="repo_example" path="simplebar"/>
+	<remote name="github" fetch="https://github.com"/>
+	<remote name="bitbucket" fetch="https://bitbucket.org"/>
+	
+	<default revision="refs/heads/master" remote="github" sync-j="4"/>
+	
+	<project name="Grsmto/simplebar" path="simplebar"/>
+	<project name="miniat/0x1-assembler" remote="bitbucket" revision="refs/heads/master" path="assembler"/>
 </manifest>
